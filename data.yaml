@@ -1,0 +1,179 @@
+---
+update_time: '2019.01.01'
+name: 曾元黎
+nickname: 梨子
+meta_content: 曾元黎 简历 招聘
+keywords: 曾元黎,前端,工作,简历
+ga_id: ''
+age: 29岁
+gender: 男
+school: 中央财经大学
+profession: 国际经济与贸易（成人本科）
+english_level: CET-4+
+experience_time: 6年
+blog: https://github.com/showzyl/my-blog/issues
+github: https://github.com/showzyl
+website:
+online: http://showzyl.github.io/resume/
+# print: https://xiao555.github.io/Resume/print.html
+apply_to_position: 高级前端工程师
+  # or 前端 Leader
+description: !!md |
+  热爱生活 追求完美 轻极客
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: showzyl@qq.com
+  -
+    icon: fa-qq
+    name: Wechat
+    value: '344691713'
+  -
+    icon: fa-phone-square
+    name: Phone
+    value: '13011263081'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: HTML/CSS
+    percentage: 70%
+  -
+    name: JavaScript
+    percentage: 85%
+  -
+    name: jQuery
+    percentage: 80%
+  -
+    name: Vue.js
+    percentage: 85%
+  -
+    name: React.js
+    percentage: 75%
+  -
+    name: Node.js
+    percentage: 70%
+  -
+    name: Git.js
+    percentage: 70%
+experience: # 项目经验
+  -
+    section: 工作经历
+    exper:
+#      - company: 百乘金控 （2018.09 -- 至今）
+#        desc: !!md |
+#          ##### 前端负责人 Lead11个小伙伴
+#        project:
+#          - des: !!md |
+#              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+#          - des: !!md |
+#              &nbsp;&nbsp; pc & h5 彩票玩法开发
+#          - des: !!md |
+#              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+#          - des: !!md |
+#              &nbsp;&nbsp; React、Vue全家桶
+      -
+        company: Mobvista （2016.8 - 2018.9）
+        time: 2016.8 - 2018.9
+        desc: !!md |
+          ##### 前端负责人 Lead3个小伙伴
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          -
+            des: !!md |
+              &nbsp;&nbsp;Hybird 项目从0到1开发，调用 Native 封装的播放视频组件制作成各种播放模板
+          -
+            des: !!md |
+              &nbsp;&nbsp;持续优化加载体验，将页面渲染方式改为下发 Zip 包形式供 Native 预渲染，加载速度提升 50%
+          -
+            des: !!md |
+              &nbsp;&nbsp;Dsp 项目从0到1，广告投放的前端模板，包括部分h5小游戏，使用 Mraid协议 调用 Native 接口
+          -
+            des: !!md |
+              &nbsp;&nbsp;Tracking Nodejs 部分模块，将高并发写成文件的形式改为写入消息队列，crontab 定时任务修改
+          -
+            des: !!md |
+              &nbsp;&nbsp;Report系统 从0到1开发内部报表，可视化图表，功能迭代
+          - des: !!md |
+              &nbsp;&nbsp;2017年优秀员工，绩效为 A
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp;原生 Javascript、Vue全家桶、Nodejs、Bash、Aws消息队列
+      -
+        company: 奇虎360（2015.7 - 2016.8）
+        time: 2015.7 - 2016.8
+        desc: !!md |
+          ##### 团队核心前端开发 Lead2个小伙伴
+        project:
+          # 经历了多个项目：1元夺宝pc&h5、360彩票pc&h5、360理财pc&h5、足彩后台系统等项目
+          -
+#            name: 360幸运购
+#            date: '2015.12'
+#            img: https://xiao555.netlify.com/ssrga.jpg
+#            website: https://1.360.cn/
+#            source_code:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360幸运购（1元夺宝）pc 和 h5 从0到1核心开发，后续的功能迭代优化
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360理财pc 和 h5 从0到1开发，后续的功能迭代优化
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360彩票（部分玩法）pc 和 h5 开发
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360足彩后台系统从0到1，功能迭代
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;jQuery、Gulp、Requirejs、Arttemplate、Underscore、Mobilebone、Iscroll、Zepto
+      -
+        company: 百度 （2014.12 - 2015.6）
+        time: 2016.8 - 2018.9
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          -
+            des: !!md |
+              &nbsp;&nbsp;百度外卖pc、h5专题活动、微信以及 Webview 中 h5页面开发
+
+          - des: !!md |
+              &nbsp;&nbsp;百度外卖h5，百度地图接口进行地址打点，ls 存取用户数据，用户下单逻辑
+          -
+            des: !!md |
+              &nbsp;&nbsp;百度外卖竞品分析后台，Highchart 数据可视化，功能迭代
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp;Fis，Jquery，Mod，Bootstrap，Less，highchart
+      - company: 我中啦 （2014.04 -- 2014.11）
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp; pc & h5 彩票玩法开发
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp;Grunt、Less、Seajs、jQuery
+
+      - company: 凤凰网 （2012.06 -- 2014.4）
+skill: # 技能清单
+  -
+    des: !!md |
+      Vue.js 研究过部分源码，实现过 [双向数据绑定]()
+  -
+    des: !!md |
+      React.js 研究过部分源码，了解 JSX，setState，Diff 算法原理，[Fiber 原理]()
+  -
+    des: !!md |
+      Webpack 了解原理，能配置多页应用，优化 `bundle` 体积，实现按需加载，实现过 Loader
+  -
+    des: !!md |
+      Es6 部分语法实现，实现过 [Promise](https://github.com/showzyl/my-daily-life/blob/master/front-end/promise.js)
+
+---
