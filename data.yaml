@@ -1,5 +1,5 @@
 ---
-update_time: '2019.01.01'
+update_time: '2019.08.01'
 name: 曾元黎
 nickname: 梨子
 meta_content: 曾元黎 简历 招聘
@@ -10,7 +10,7 @@ gender: 男
 school: 中央财经大学
 profession: 国际经济与贸易（成人本科）
 english_level: CET-4+
-experience_time: 6年
+experience_time: 7.5年
 blog: https://github.com/showzyl/my-blog/issues
 github: https://github.com/showzyl
 website:
@@ -60,23 +60,24 @@ experience: # 项目经验
   -
     section: 工作经历
     exper:
-#      - company: 百乘金控 （2018.09 -- 至今）
-#        desc: !!md |
-#          ##### 前端负责人 Lead11个小伙伴
-#        project:
-#          - des: !!md |
-#              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
-#          - des: !!md |
-#              &nbsp;&nbsp; pc & h5 彩票玩法开发
-#          - des: !!md |
-#              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
-#          - des: !!md |
-#              &nbsp;&nbsp; React、Vue全家桶
+      - company: 百乘金科 （2018.09 -- 至今）
+        desc: !!md |
+          ##### 前端负责人 Lead 11个小伙伴
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp; 7条业务线的前端架构
+              &nbsp;&nbsp; 人员培养
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp; React、Vue全家桶
       -
         company: Mobvista （2016.8 - 2018.9）
         time: 2016.8 - 2018.9
         desc: !!md |
-          ##### 前端负责人 Lead3个小伙伴
+          ##### 前端负责人 Lead 3个小伙伴
         project:
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
@@ -165,10 +166,10 @@ experience: # 项目经验
 skill: # 技能清单
   -
     des: !!md |
-      Vue.js 研究过部分源码，实现过 [双向数据绑定]()
+      Vue.js 研究过部分源码，实现过 双向数据绑定
   -
     des: !!md |
-      React.js 研究过部分源码，了解 JSX，setState，Diff 算法原理，[Fiber 原理]()
+      React.js 研究过部分源码，了解 JSX，setState，Diff 算法原理，Fiber 原理
   -
     des: !!md |
       Webpack 了解原理，能配置多页应用，优化 `bundle` 体积，实现按需加载，实现过 Loader

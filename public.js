@@ -7,7 +7,7 @@ console.log(`Start public to your git repo[${repo}]\nPlease wait ...`.green)
 git(path)
   .init()
   .add('./*')
-  .commit("feat: build")
+  .commit("feat: build file")
   .addRemote('origin', repo)
   .push(['-f', 'origin', 'master'], () => {
     console.log("Push to master success");
