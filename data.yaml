@@ -5,12 +5,12 @@ nickname: 梨子
 meta_content: 曾元黎 简历 招聘
 keywords: 曾元黎,前端,工作,简历
 ga_id: ''
-age: 29岁
+age: 30岁
 gender: 男
 school: 中央财经大学
-profession: 国际经济与贸易（成人本科）
+profession: 国际经济与贸易
 english_level: CET-4+
-experience_time: 7.5年
+experience_time: 8.8年
 blog: https://github.com/showzyl/my-blog/issues
 github: https://github.com/showzyl
 website:
@@ -32,7 +32,7 @@ contact: # 联系方式
   -
     icon: fa-phone-square
     name: Phone
-    value: '13011263081'
+    value: '13811858497'
 honor: # 奖项荣誉
 tech: # 技能点
   -
@@ -67,8 +67,11 @@ experience: # 项目经验
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
           - des: !!md |
-              &nbsp;&nbsp; 7条业务线的前端架构
-              &nbsp;&nbsp; 人员培养
+              &nbsp;&nbsp; 7条主要业务线的前端架构、通用组件开发、编码规范引入、工具链完善、难点攻坚
+          - des: !!md |
+              &nbsp;&nbsp; 需求任务分配、指导初中级工程师、引导新同学熟悉业务
+          - des: !!md |
+              &nbsp;&nbsp; 团队技术分享、培养技术氛围
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
           - des: !!md |
@@ -77,7 +80,7 @@ experience: # 项目经验
         company: Mobvista （2016.8 - 2018.9）
         time: 2016.8 - 2018.9
         desc: !!md |
-          ##### 前端负责人 Lead 3个小伙伴
+          ##### 前端负责人 Lead 4-5个小伙伴
         project:
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
