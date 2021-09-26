@@ -5,12 +5,12 @@ nickname: 梨子
 meta_content: 曾元黎 简历 招聘
 keywords: 曾元黎,前端,工作,简历
 ga_id: ''
-age: 30岁
+age: 31岁
 gender: 男
 school: 中央财经大学
 profession: 国际经济与贸易
 english_level: CET-4+
-experience_time: 8.8年
+experience_time: 9年
 blog: https://github.com/showzyl/my-blog/issues
 github: https://github.com/showzyl
 website:
@@ -60,7 +60,28 @@ experience: # 项目经验
   -
     section: 工作经历
     exper:
-      - company: 百乘金科 （2018.09 -- 至今）
+      - company: 北京当鸣科技有限公司（2021.03 -- 至今）
+        desc: !!md |
+          ##### 资深前端工程师
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp; 基于`polkadot`的网页版轻钱包
+          - des: !!md |
+              &nbsp;&nbsp; 核心功能：用户注册、生成秘钥对 & 助记词 & `DID`、通过助记词恢复`DID`身份、支持`DID`和钱包地址的转账、交易记录功能、Magic Link恢复账号功能 [项目地址](https://github.com/parami-protocol/weixin_wallet)
+          - des: !!md |
+              &nbsp;&nbsp; 调用`Walletconnect`钱包、上传头像解析`DID`、ETH <-> Dot Token双向桥
+          - des: !!md |
+              &nbsp;&nbsp; Node SDK 广告服务: 基于DID 创建广告主、创建广告、签名广告、广告主给用户发奖励、用户拿签名自己领奖励接口  [项目地址](https://github.com/parami-protocol/parami-ad-nodejs-demo)
+          - des: !!md |
+              &nbsp;&nbsp;
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp; React、Vue、Nodejs
+      -
+      - company: 百乘金科 （2018.09 -- 2019.08）
         desc: !!md |
           ##### 前端负责人 Lead 11个小伙伴
         project:
