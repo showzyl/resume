@@ -44,8 +44,5 @@
     "simple-git": "^1.73.0"
   },
   "author": "xiao555",
-  "license": "MIT",
-  "resolutions": {
-    "graceful-fs": "^4.2.4"
-  }
+  "license": "MIT"
 }
