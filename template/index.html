@@ -4,23 +4,23 @@
     <div class="sidebar">
         <div class="title">
             {% include 'head.html' %}
-            <h1>「{{ name }}」的简历</h1>
+            <h1>Resume of {{ name }}</h1>
             <h2>{{ des }}</h2>
         </div>
         <ul class="side-info">
             <li class="someRight">
-                <dt><i class="fa fa-bookmark"></i>Basic info. 基本信息</dt>
-                <dd><span>个人信息:</span> {{ name }} / {{ gender }} / {{ age }} </dd>
-                <dd><span>学校：</span>{{school}}</dd>
-                <dd><span>专业：</span>{{profession}}</dd>
+                <dt><i class="fa fa-bookmark"></i>Basic Info</dt>
+                <dd><span>Personal Info:</span> {{ name }} / {{ gender }} / {{ age }} </dd>
+                <dd><span>School:</span>{{school}}</dd>
+                <dd><span>Major:</span>{{profession}}</dd>
                 {% if experience_time %}
-                <dd><span>工作经验:</span> {{ experience_time }}</dd>
+                <dd><span>Work Experience:</span> {{ experience_time }}</dd>
                 {% endif %}
                 {% if nickname %}
-                <dd><span>常用ID:</span> {{ nickname }}</dd>
+                <dd><span>Nickname:</span> {{ nickname }}</dd>
                 {% endif %}
                 {% if english_level %}
-                <dd><span>英语水平:</span> {{ english_level }}</dd>
+                <dd><span>English Level:</span> {{ english_level }}</dd>
                 {% endif %}
                 {% if blog %}
                 <dd><span>Blog:</span> <a href="{{ blog }}" target="_blank">{{ blog }}</a></dd>
@@ -29,22 +29,22 @@
                 <dd><span>GitHub:</span> <a href="{{ github }}" target="_blank">{{ github }}</a></dd>
                 {% endif %}
                 {% if online %}
-                <dd><span>在线简历:</span> <a href="{{ online }}" target="_blank">{{ online }}</a></dd>
+                <dd><span>Online Resume:</span> <a href="{{ online }}" target="_blank">{{ online }}</a></dd>
                 {% endif %}
             </li>
             <li class="someRight">
-                <dt><i class="fa fa-bookmark"></i>Contact. 联系方式</dt>
+                <dt><i class="fa fa-bookmark"></i>Contact</dt>
                 {% for item in contact %}
                     <dd><i class="fa {{ item.icon }}"></i>{{ item.name }}: <a {% if item.name == 'Email' %}href="mailto:{{ item.value }}"{% endif %} target="_blank">{{ item.value }}</a></dd>
                 {% endfor %}
             </li>
             <li class="someRight">
-                <dt><i class="fa fa-bookmark"></i>Application. 应聘岗位</dt>
+                <dt><i class="fa fa-bookmark"></i>Application Position</dt>
                 <dd>{{ apply_to_position }}</dd>
             </li>
             {% if honor %}
             <li class="someRight">
-                <dt><i class="fa fa-bookmark"></i>Honor. 奖项荣誉</dt>
+                <dt><i class="fa fa-bookmark"></i>Honor & Awards</dt>
                 <dd>
                     {% for item in honor %}
                     <ul>
@@ -55,7 +55,7 @@
             </li>
             {% endif %}
             <li class="skill">
-                <dt><i class="fa fa-bookmark"></i>Tech. 主要技能点</dt>
+                <dt><i class="fa fa-bookmark"></i>Technical Skills</dt>
                 {% for item in tech %}
                 <dd>
                     <div class="skill-name">{{ item.name }}</div>
@@ -75,7 +75,7 @@
     <div class="main">
         <ul class="main-info">
             <li class="skill">
-                <dt><i class="fa fa-bookmark"></i> 原理. 专业技能</dt>
+                <dt><i class="fa fa-bookmark"></i>Principles & Professional Skills</dt>
                 {% for item in skill %}
                 <ul class="exp">
                   <li>{{ item.des |safe }}</li>
@@ -83,7 +83,7 @@
                 {% endfor %}
             </li>
             <li class="skill none">
-                <dt><i class="fa fa-bookmark"></i> 应用. 技能清单</dt>
+                <dt><i class="fa fa-bookmark"></i>Application & Skill List</dt>
                 {% for item in apply %}
                 <ul class="exp">
                   <li>{{ item.des |safe }}</li>
@@ -91,10 +91,10 @@
                 {% endfor %}
             </li>
             <li class="experience">
-                <dt><i class="fa fa-bookmark"></i> Experience. 项目经验</dt>
+                <dt><i class="fa fa-bookmark"></i>Experience</dt>
                 {% for exp in experience %}
                     {% if exp.section == '个人项目' %}
-                        <h2 class="exp-title">{{exp.section}}</h2>
+                        <h2 class="exp-title">Personal Projects</h2>
                         <ul class="exp">
                             {% for item in exp.project %}
                             <li>

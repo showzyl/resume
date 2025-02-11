@@ -4,6 +4,7 @@
   "description": "A resume generator",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "start": "gulp",
     "build": "NODE_ENV=production gulp",
     "public": "rimraf dist && npm run build && node public.js",
@@ -43,5 +44,8 @@
     "simple-git": "^1.73.0"
   },
   "author": "xiao555",
-  "license": "MIT"
+  "license": "MIT",
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  }
 }
