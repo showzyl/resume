@@ -1,0 +1,198 @@
+---
+update_time: '2019.08.01'
+name: Yuanli Zeng
+nickname: Pear
+meta_content: Yuanli Zeng Resume Recruitment
+keywords: Yuanli Zeng,Frontend,Job,Resume
+ga_id: ''
+age: 31 years old
+gender: Male
+school: Central University of Finance and Economics
+profession: International Economics and Trade
+english_level: CET-4+
+experience_time: 9 years
+blog: https://github.com/showzyl/my-blog/issues
+github: https://github.com/showzyl
+website:
+online: http://showzyl.github.io/resume/
+# print: https://xiao555.github.io/Resume/print.html
+apply_to_position: Senior Frontend Engineer
+  # or Frontend Leader
+description: !!md |
+  Love life, Pursue perfection, Light geek
+contact: # Contact Information
+  -
+    icon: fa-envelope
+    name: Email
+    value: showzyl520@gmail.com
+  -
+    icon: fa-qq
+    name: Wechat
+    value: '344691713'
+  -
+    icon: fa-phone-square
+    name: Phone
+    value: '13811858497'
+honor: # Awards
+tech: # Technical Skills
+  -
+    name: HTML/CSS
+    percentage: 70%
+  -
+    name: JavaScript
+    percentage: 85%
+  -
+    name: jQuery
+    percentage: 80%
+  -
+    name: Vue.js
+    percentage: 85%
+  -
+    name: React.js
+    percentage: 75%
+  -
+    name: Node.js
+    percentage: 70%
+  -
+    name: Git.js
+    percentage: 70%
+experience: # Project Experience
+  -
+    section: Work Experience
+    exper:
+      - company: Beijing Dangming Technology Co., Ltd. (2021.03 -- Present)
+        desc: !!md |
+          ##### Senior Frontend Engineer
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          - des: !!md |
+              &nbsp;&nbsp; Web-based light wallet based on `polkadot`
+          - des: !!md |
+              &nbsp;&nbsp; Core features: User registration, generate key pairs & mnemonics & `DID`, recover `DID` identity through mnemonics, support `DID` and wallet address transfers, transaction history function, Magic Link account recovery function [Project Link](https://github.com/parami-protocol/weixin_wallet)
+          - des: !!md |
+              &nbsp;&nbsp; Call `Walletconnect` wallet, upload avatar to parse `DID`, ETH <-> Dot Token bi-directional bridge
+          - des: !!md |
+              &nbsp;&nbsp; Node SDK Advertising Service: DID-based advertiser creation, ad creation, ad signing, advertiser rewards to users, user self-claim rewards with signature interface [Project Link](https://github.com/parami-protocol/parami-ad-nodejs-demo)
+          - des: !!md |
+              &nbsp;&nbsp;
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp; React, Vue, Nodejs
+      -
+      - company: Baicheng Fintech (2018.09 -- 2019.08)
+        desc: !!md |
+          ##### Frontend Team Lead of 11 members
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          - des: !!md |
+              &nbsp;&nbsp; Frontend architecture for 7 main business lines, common component development, coding standards introduction, toolchain improvement, technical challenges solving
+          - des: !!md |
+              &nbsp;&nbsp; Task allocation, mentoring junior/mid-level engineers, guiding new team members to understand business
+          - des: !!md |
+              &nbsp;&nbsp; Team technical sharing, fostering technical atmosphere
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp; React, Vue ecosystem
+      -
+        company: Mobvista (2016.8 - 2018.9)
+        time: 2016.8 - 2018.9
+        desc: !!md |
+          ##### Frontend Team Lead of 4-5 members
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          -
+            des: !!md |
+              &nbsp;&nbsp;Hybrid project development from scratch, creating various playback templates using Native video component
+          -
+            des: !!md |
+              &nbsp;&nbsp;Continuous loading experience optimization, changed page rendering to Zip package distribution for Native pre-rendering, 50% loading speed improvement
+          -
+            des: !!md |
+              &nbsp;&nbsp;DSP project from scratch, frontend templates for ad delivery, including HTML5 mini games, using Mraid protocol to call Native interfaces
+          -
+            des: !!md |
+              &nbsp;&nbsp;Tracking Nodejs modules, changed high-concurrency file writing to message queue writing, crontab scheduled tasks modification
+          -
+            des: !!md |
+              &nbsp;&nbsp;Report system development from scratch, internal reporting, visualization charts, feature iterations
+          - des: !!md |
+              &nbsp;&nbsp;2017 Outstanding Employee, Performance Grade A
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp;Vanilla Javascript, Vue ecosystem, Nodejs, Bash, AWS message queue
+      -
+        company: Qihoo 360 (2015.7 - 2016.8)
+        time: 2015.7 - 2016.8
+        desc: !!md |
+          ##### Core Frontend Developer Leading 2 team members
+        project:
+          -
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360 Lucky Purchase (1 Yuan lottery) PC and H5 core development from scratch, subsequent feature iterations and optimization
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360 Finance PC and H5 development from scratch, subsequent feature iterations and optimization
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360 Lottery (partial games) PC and H5 development
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;360 Sports Lottery backend system from scratch, feature iterations
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp;&nbsp;&nbsp;jQuery, Gulp, Requirejs, Arttemplate, Underscore, Mobilebone, Iscroll, Zepto
+      -
+        company: Baidu (2014.12 - 2015.6)
+        time: 2016.8 - 2018.9
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          -
+            des: !!md |
+              &nbsp;&nbsp;Baidu Takeout PC, H5 promotional activities, WeChat and Webview H5 page development
+
+          - des: !!md |
+              &nbsp;&nbsp;Baidu Takeout H5, Baidu Maps API for address marking, localStorage for user data, user order logic
+          -
+            des: !!md |
+              &nbsp;&nbsp;Baidu Takeout competitor analysis backend, Highchart data visualization, feature iterations
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp;Fis, jQuery, Mod, Bootstrap, Less, Highchart
+      - company: Wozhongla (2014.04 -- 2014.11)
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Project Description:
+          - des: !!md |
+              &nbsp;&nbsp; PC & H5 lottery game development
+
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:
+          - des: !!md |
+              &nbsp;&nbsp;Grunt, Less, Seajs, jQuery
+
+      - company: Phoenix News (2012.06 -- 2014.4)
+skill: # Skills List
+  -
+    des: !!md |
+      Vue.js: Studied partial source code, implemented two-way data binding
+  -
+    des: !!md |
+      React.js: Studied partial source code, understand JSX, setState, Diff algorithm principles, Fiber principles
+  -
+    des: !!md |
+      Webpack: Understand principles, can configure multi-page applications, optimize bundle size, implement lazy loading, implemented Loaders
+  -
+    des: !!md |
+      ES6: Implemented partial syntax features, implemented [Promise](https://github.com/showzyl/my-daily-life/blob/master/front-end/promise.js)
+
+---
