@@ -1,5 +1,5 @@
 ---
-update_time: '2019.08.01'
+update_time: '2023.03.06'
 name: 曾元黎
 nickname: 梨子
 meta_content: 曾元黎 简历 招聘
@@ -10,13 +10,12 @@ gender: 男
 school: 中央财经大学
 profession: 国际经济与贸易
 english_level: CET-4+
-experience_time: 9年
+experience_time: 11年
 blog: https://github.com/showzyl/my-blog/issues
 github: https://github.com/showzyl
 website:
 online: http://showzyl.github.io/resume/
-# print: https://xiao555.github.io/Resume/print.html
-apply_to_position: 高级前端工程师
+apply_to_position: 资深前端工程师
   # or 前端 Leader
 description: !!md |
   热爱生活 追求完美 轻极客
@@ -24,7 +23,7 @@ contact: # 联系方式
   -
     icon: fa-envelope
     name: Email
-    value: showzyl@qq.com
+    value: showzyl520@gmail.com
   -
     icon: fa-qq
     name: Wechat
@@ -32,7 +31,7 @@ contact: # 联系方式
   -
     icon: fa-phone-square
     name: Phone
-    value: '13811858497'
+    value: '19160048985'
 honor: # 奖项荣誉
 tech: # 技能点
   -
@@ -57,10 +56,45 @@ tech: # 技能点
     name: Git.js
     percentage: 70%
 experience: # 项目经验
-  -
-    section: 工作经历
-    exper:
-      - company: 北京当鸣科技有限公司（2021.03 -- 至今）
+    -
+      section: 工作经历
+      exper:
+      - company: Side Labs（2024.01 -- 2025.01）
+        desc: !!md |
+          ##### 前端架构师（Lead前端团队）
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp; \` Cosmos | BTC \` Chrome Extension Multi-Chain Wallet & Bridge & Station & Hub & Bridge
+          - des: !!md |
+              &nbsp;&nbsp; 核心功能：
+                - Chrome Extension Wallet、Station、Bridge、Swap、Staking、Lending、Borrowing、Governance、Dashboard
+          - des: !!md |
+              &nbsp;&nbsp; [Multi-Chain Wallet](https://github.com/sideprotocol/side-wallet) [Station](https://station.side.one/)
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp; React、Mui、Tailwindcss
+      -
+      - company: 北京和联共识科技有限公司（2022.03 -- 2024.01）
+        desc: !!md |
+          ##### 前端架构师（Lead前端团队）
+        project:
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
+          - des: !!md |
+              &nbsp;&nbsp; \` ETH | BSC | POLYGON | APT | SUI \` Defi Lending & NFT & GameFi & SocialFi
+          - des: !!md |
+              &nbsp;&nbsp; 核心功能：Lending、Borrowing、Staking、Farming、Swap、Liquidation、Referral、Dashboard
+          - des: !!md |
+              &nbsp;&nbsp; [Lending](https://patronus.fi/) [Gamefi](https://jungo.io/campaigns/) [NFT](https://marketplace.jungo.io/)
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
+          - des: !!md |
+              &nbsp;&nbsp; React、Vue、Tailwindcss
+      -
+      - company: 北京当鸣科技有限公司（2021.03 -- 2022.03）
         desc: !!md |
           ##### 资深前端工程师
         project:
@@ -133,13 +167,6 @@ experience: # 项目经验
         desc: !!md |
           ##### 团队核心前端开发 Lead2个小伙伴
         project:
-          # 经历了多个项目：1元夺宝pc&h5、360彩票pc&h5、360理财pc&h5、足彩后台系统等项目
-          -
-#            name: 360幸运购
-#            date: '2015.12'
-#            img: https://xiao555.netlify.com/ssrga.jpg
-#            website: https://1.360.cn/
-#            source_code:
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
           - des: !!md |
