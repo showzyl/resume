@@ -10,7 +10,7 @@ gender: 男
 school: 中央财经大学
 profession: 国际经济与贸易
 english_level: CET-4+
-experience_time: 11年
+experience_time: 13年
 blog: https://github.com/showzyl/my-blog/issues
 github: https://github.com/showzyl
 website:
@@ -55,6 +55,9 @@ tech: # 技能点
   -
     name: Git.js
     percentage: 70%
+  -
+    name: Solidity
+    percentage: 70%
 experience: # 项目经验
     -
       section: 工作经历
@@ -68,9 +71,13 @@ experience: # 项目经验
           - des: !!md |
               &nbsp;&nbsp; \` Cosmos | BTC \` Chrome Extension Multi-Chain Wallet & Bridge & Station & Hub
           - des: !!md |
-              &nbsp;&nbsp; 核心功能：Chrome Extension Wallet、Station、Bridge、Swap、Staking、Lending、Borrowing、Governance、Dashboard
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;核心功能：
+          - des: !!md |    
+              &nbsp;&nbsp; Chrome Extension Wallet、Station、Bridge、Swap、Staking、Lending、Borrowing、Governance、Dashboard
           - des: !!md |
-              &nbsp;&nbsp; 项目链接： [Multi-Chain Wallet](https://github.com/sideprotocol/side-wallet) [Station](https://station.side.one/) [Hub](https://devnet.side.one/)
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目链接：
+          - des: !!md |
+              &nbsp;&nbsp; [Multi-Chain Wallet](https://github.com/sideprotocol/side-wallet) [Hub](https://devnet.side.one/) [Station](https://station.side.one/) 
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
           - des: !!md |
@@ -85,9 +92,13 @@ experience: # 项目经验
           - des: !!md |
               &nbsp;&nbsp; \` ETH | BSC | POLYGON | APT | SUI \` Defi Lending & NFT & GameFi & SocialFi
           - des: !!md |
-              &nbsp;&nbsp; 核心功能：Lending、Borrowing、Staking、Farming、Swap、Liquidation、Referral、Dashboard
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;核心功能：
           - des: !!md |
-              &nbsp;&nbsp; [Lending](https://patronus.fi/) [Gamefi](https://jungo.io/campaigns/) [NFT](https://marketplace.jungo.io/)
+              &nbsp;&nbsp; Lending、Borrowing、Staking、Farming、Swap、Liquidation、Referral、Dashboard
+          - des: !!md |
+              ###### &nbsp;&nbsp;&nbsp;&nbsp;项目链接：
+          - des: !!md |
+              &nbsp;&nbsp; [APT Lending](https://patronus.fi/) [BSC Lending](https://for.tube/) [Gamefi](https://jungo.io/campaigns/) [NFT](https://marketplace.jungo.io/)
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
           - des: !!md |
