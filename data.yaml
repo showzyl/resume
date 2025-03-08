@@ -66,12 +66,11 @@ experience: # 项目经验
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;项目描述：
           - des: !!md |
-              &nbsp;&nbsp; \` Cosmos | BTC \` Chrome Extension Multi-Chain Wallet & Bridge & Station & Hub & Bridge
+              &nbsp;&nbsp; \` Cosmos | BTC \` Chrome Extension Multi-Chain Wallet & Bridge & Station & Hub
           - des: !!md |
-              &nbsp;&nbsp; 核心功能：
-                - Chrome Extension Wallet、Station、Bridge、Swap、Staking、Lending、Borrowing、Governance、Dashboard
+              &nbsp;&nbsp; 核心功能：Chrome Extension Wallet、Station、Bridge、Swap、Staking、Lending、Borrowing、Governance、Dashboard
           - des: !!md |
-              &nbsp;&nbsp; [Multi-Chain Wallet](https://github.com/sideprotocol/side-wallet) [Station](https://station.side.one/)
+              &nbsp;&nbsp; 项目链接： [Multi-Chain Wallet](https://github.com/sideprotocol/side-wallet) [Station](https://station.side.one/) [Hub](https://devnet.side.one/)
           - des: !!md |
               ###### &nbsp;&nbsp;&nbsp;&nbsp;技术栈：
           - des: !!md |
